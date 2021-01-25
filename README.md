@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Codepen App
+[Demo of Codepen App](https://girishgodage.github.io/codepen/)
+
+
+![](/app.png)
+
+### Summary
+
+Codepen App is a code editor application created with React, in which users can write html, css and js code and test the result. 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
